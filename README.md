@@ -39,7 +39,7 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=HeyImGurman&theme=radical)](https://git.io/streak-stats)
+  ![My Stats](./profile-stats.svg)
 </p>
 
 ---
