@@ -39,7 +39,9 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  ![My Stats](./profile-stats.svg)
+<p align="center">
+  <img src="./profile-stats.svg" alt="My Stats" />
+</p>
 </p>
 
 ---
