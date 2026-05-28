@@ -17,7 +17,7 @@
 <br>
 
 ## 💫 About Me
-- 🔭 I’m currently working on... **My Portfolio Website :D**
+- 🔭 I’m currently working on... **react-weather-app ⛅**
 - 🌱 I’m currently learning... **JavaScript**
 - 👯 I’m looking to collaborate on... **UI/UX designing**
 - 💬 Ask me about... **Web Development, UI/UX, or Tech Trends**
