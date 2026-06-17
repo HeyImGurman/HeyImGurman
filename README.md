@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-*   🔭 I’m currently working on... **a Expense Tracker App 💵**
+*   🔭 I’m currently working on... **A Goal Tracker App**
 *   🌱 I’m currently learning... **JavaScript & React**
 *   👯 I’m looking to collaborate on... **UI/UX Design & Frontend Projects**
 *   💬 Ask me about... **Web Development, UI/UX, or Tech Trends**
